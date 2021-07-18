@@ -26,7 +26,8 @@ public class App
 
         // close browser
         driver.close();
-    	
+
+        driver.quit();
     	
     	
     }
